@@ -1,4 +1,4 @@
-
+![Banner](https://raw.githubusercontent.com/Allanvs0/Allanvs0/main/assets/1719611979064.jfif)
 
 ## Olá! 👋 
 
