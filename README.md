@@ -1,4 +1,4 @@
-![Header Image](file:///D:/Downloads/Imagens/1719611979064.jfif)
+
 
 ## Olá! 👋 
 
@@ -29,11 +29,9 @@ Trabalho com dados, criando análises e dashboards que geram valor real. Estou e
 
 ![Allan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Allanvs0&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
-
 ## Contador de Visitantes
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Allanvs0.Allanvs0)
-
+- ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Allanvs0.Allanvs0)
 
 ## Contato:
 
