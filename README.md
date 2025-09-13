@@ -26,3 +26,5 @@ Trabalho com dados, criando análises e dashboards que geram valor real. Estou e
 ## Contato:
 
 - [LinkedIn](https://www.linkedin.com/in/allansiqueira1)  **-** [E-mail](mailto:allanvieirasiqueira@gmail.com)
+
+![Visitor Count](https://profile-counter.glitch.me/Allanvs0/count.svg)
