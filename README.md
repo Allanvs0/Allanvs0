@@ -20,7 +20,7 @@ Trabalho com dados, criando análises e dashboards que geram valor real. Estou e
 
 - [FIT Manager](https://www.linkedin.com/in/allansiqueira1/): Aplicativo de saúde e bem-estar baseado em dados. 💻 Planejamento Estratégico, Documentação
 
-- [Ranking de Séries](https://www.linkedin.com/in/allansiqueira1/): Plataforma web de rankings de séries com foco em dados e UX. 💻 HTML, CSS, PHP, MySQL
+- [Ranking de Séries](https://github.com/Allanvs0/RankingSeries): Plataforma web de rankings de séries com foco em dados e UX. 💻 HTML, CSS, PHP, MySQL
 
 
 ## Contato:
