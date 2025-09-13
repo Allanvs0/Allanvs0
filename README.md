@@ -1,3 +1,5 @@
+![Header Image](https://source.unsplash.com/1600x900/?technology)
+
 ## Olá! 👋 
 
 Estudante de Análise e Desenvolvimento de Sistemas | Especializando em Análise de Dados  
@@ -16,15 +18,24 @@ Trabalho com dados, criando análises e dashboards que geram valor real. Estou e
 
 ## Top Projetos
 
-- [Dashboard de Gestão de Vendas](https://www.linkedin.com/in/allansiqueira1/details/projects/): Dashboard interativo com KPIs de faturamento, ticket médio e comissão. 💻 Power BI, SQL, Excel
+- [Dashboard de Gestão de Vendas](https://www.linkedin.com/in/allansiqueira1/): Dashboard interativo com KPIs de faturamento, ticket médio e comissão. 💻 Power BI, SQL, Excel
 
-- [FIT Manager](https://www.linkedin.com/in/allansiqueira1/details/projects/): Aplicativo de saúde e bem-estar baseado em dados. 💻 Planejamento Estratégico, Documentação
+- [FIT Manager](https://www.linkedin.com/in/allansiqueira1/): Aplicativo de saúde e bem-estar baseado em dados. 💻 Planejamento Estratégico, Documentação
 
-- [Ranking de Séries](https://github.com/Allanvs0/RankingSeries): Plataforma web de rankings de séries com foco em dados e UX. 💻 HTML, CSS, PHP, MySQL
+- [Ranking de Séries](https://www.linkedin.com/in/allansiqueira1/): Plataforma web de rankings de séries com foco em dados e UX. 💻 HTML, CSS, PHP, MySQL
 
+
+## Estatísticas do GitHub
+
+![Allan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Allanvs0&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+
+## Contador de Visitantes
+
+![Visitor Count](https://profile-counter.glitch.me/Allanvs0/count.svg)
 
 ## Contato:
 
 - [LinkedIn](https://www.linkedin.com/in/allansiqueira1)  **-** [E-mail](mailto:allanvieirasiqueira@gmail.com)
 
-![Visitor Count](https://profile-counter.glitch.me/Allanvs0/count.svg)
+
