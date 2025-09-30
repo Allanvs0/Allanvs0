@@ -18,6 +18,8 @@ Trabalho com dados, criando análises e dashboards que geram valor real. Estou e
 
 ## Top Projetos
 
+- [Análise de Dados](https://github.com/Allanvs0/Analise-Materias-Primas/blob/main/Analise-Materias-Primas/Materiais_de_agricultura.ipynb): Análise Exploratória de Dados sobre Matérias-Primas Agrícolas 💻 Python, Pandas e Matplotlib
+
 - [Dashboard de Gestão de Vendas](https://www.linkedin.com/in/allansiqueira1/): Dashboard interativo com KPIs de faturamento, ticket médio e comissão. 💻 Power BI, SQL, Excel
 
 - [FIT Manager](https://www.linkedin.com/in/allansiqueira1/): Aplicativo de saúde e bem-estar baseado em dados. 💻 Planejamento Estratégico, Documentação
