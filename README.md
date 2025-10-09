@@ -18,6 +18,8 @@ Trabalho com dados, criando análises e dashboards que geram valor real. Estou e
 
 ## Top Projetos
 
+- [Análise de Dados](https://github.com/Allanvs0/analise-de-dados-com-sql): Análise Exploratória de Dados sobre Filmes 🎬 SQL (MySQL)
+
 - [Análise de Dados](https://github.com/Allanvs0/Titanic-Analise-de-Dados/blob/main/Titanic_Data_Analysis.ipynb): Análise Exploratória de Dados sobre Titanic 💻 Python, Pandas, Seaborn e Plotly
 
 - [Análise de Dados](https://github.com/Allanvs0/Analise-Materias-Primas/blob/main/Analise-Materias-Primas/Materiais_de_agricultura.ipynb): Análise Exploratória de Dados sobre Matérias-Primas Agrícolas 💻 Python, Pandas e Matplotlib
