@@ -6,8 +6,7 @@ Estudante de Análise e Desenvolvimento de Sistemas | Especializando em Análise
 
 ## Sobre mim
 
-Trabalho com dados, criando análises e dashboards que geram valor real. Estou em busca de oportunidades de **estágio em Análise de Dados e Business Intelligence**. Confira meu [LinkedIn](https://www.linkedin.com/in/allansiqueira1) para conhecer meus projetos e experiências.
-
+Desenvolvo Análises e Dashboards em Projetos Pessoais e Ecadêmicos, transformando dados em informações relevantes. Estou em busca de estágio em Análise de Dados e Business Intelligence. Veja meus projetos e experiências no [Linkedin](https://www.linkedin.com/in/allansiqueira1).
 
 ## Tecnologias & Skills
 - **Análise de Dados / BI:** Power BI, Excel, SQL, MySQL
