@@ -26,6 +26,8 @@ Trabalho com dados, criando análises e dashboards que geram valor real. Estou e
 
 - [Dashboard de Gestão de Vendas](https://www.linkedin.com/in/allansiqueira1/): Dashboard interativo com KPIs de faturamento, ticket médio e comissão. 💻 Power BI, SQL, Excel
 
+- [FofoTechs](https://github.com/luccacorbo/projeto_apsII): Organizador de Tarefas Gamificado que une produtividade e engajamento por meio de recompensas e desafios. 💻 HTML, CSS, JavaScript, Python, MySQL
+
 - [FIT Manager](https://www.linkedin.com/in/allansiqueira1/): Aplicativo de saúde e bem-estar baseado em dados. 💻 Planejamento Estratégico, Documentação
 
 - [Ranking de Séries](https://www.linkedin.com/in/allansiqueira1/): Plataforma web de rankings de séries com foco em dados e UX. 💻 HTML, CSS, PHP, MySQL
