@@ -9,7 +9,7 @@ Estudante de Análise e Desenvolvimento de Sistemas | Especializando em Análise
 Desenvolvo Análises e Dashboards em Projetos Pessoais e Ecadêmicos, transformando dados em informações relevantes. Estou em busca de estágio em Análise de Dados e Business Intelligence. Veja meus projetos e experiências no [Linkedin](https://www.linkedin.com/in/allansiqueira1).
 
 ## Tecnologias & Skills
-- **Análise de Dados / BI:** Power BI, Excel, SQL, MySQL, Databricks (PySpark)
+- **Análise de Dados / BI:** Power BI, Excel, SQL, MySQL, Databricks (PySpark), DAX
 - **Programação:** Python, PHP, HTML, CSS, JavaScript
 - **Controle de versão:** Git & GitHub
 - **Outras habilidades:** Documentação técnica, Dashboards, Lógica de programação
@@ -17,7 +17,7 @@ Desenvolvo Análises e Dashboards em Projetos Pessoais e Ecadêmicos, transforma
 
 ## Top Projetos
 
-- [Dashboard Comercial-Interativo](https://github.com/Allanvs0/Dashboard-Comercial-Interativo-Power-BI-): Análise estratégica de vendas com KPIs, faturamento e performance regional. 💻 Power BI, DAX, Power Query
+- [Dashboard Comercial-Interativo](https://github.com/Allanvs0/Dashboard-Comercial-Interativo-Power-BI-): Análise de Vendas com KPIs, faturamento e performance regional. 💻 Power BI, DAX, Power Query
 
 - [Análise de Dados](https://github.com/Allanvs0/analise-de-dados-com-sql): Análise Exploratória de Dados sobre Filmes 🎬 SQL (MySQL)
 
