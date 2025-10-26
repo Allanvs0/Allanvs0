@@ -17,6 +17,8 @@ Desenvolvo Análises e Dashboards em Projetos Pessoais e Ecadêmicos, transforma
 
 ## Top Projetos
 
+- [Dashboard Comercial-Interativo](https://github.com/Allanvs0/Dashboard-Comercial-Interativo-Power-BI-): Análise estratégica de vendas com KPIs, faturamento e performance regional. 💻 Power BI, DAX, Power Query
+
 - [Análise de Dados](https://github.com/Allanvs0/analise-de-dados-com-sql): Análise Exploratória de Dados sobre Filmes 🎬 SQL (MySQL)
 
 
