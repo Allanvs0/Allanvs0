@@ -34,7 +34,7 @@ Desenvolvo Análises e Dashboards em Projetos Pessoais e Ecadêmicos, transforma
 - [Explorando o Databricks](https://github.com/Allanvs0/projeto_databricks/tree/main): Teste inicial na plataforma para análise de dados. 💻 Databricks, SQL, PySpark
 
 
-- [FofoTechs](https://github.com/luccacorbo/projeto_apsII): Organizador de Tarefas Gamificado que une produtividade e engajamento por meio de recompensas e desafios. 💻 HTML, CSS, JavaScript, Python, MySQL
+- [FofoTechs](https://github.com/Allanvs0/projeto_apsII): Organizador de Tarefas Gamificado que une produtividade e engajamento por meio de recompensas e desafios. 💻 HTML, CSS, JavaScript, Python, MySQL
 
 
 - [FIT Manager](https://www.linkedin.com/in/allansiqueira1/): Aplicativo de saúde e bem-estar baseado em dados. 💻 Planejamento Estratégico, Documentação
