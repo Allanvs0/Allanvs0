@@ -2,7 +2,7 @@
 
 ## Olá! 👋 
 
-Estudante de Análise e Desenvolvimento de Sistemas | Especializando em Análise de Dados  
+Formado em Análise e Desenvolvimento de Sistemas | Especializando em Análise de Dados  
 
 ## Sobre mim
 
